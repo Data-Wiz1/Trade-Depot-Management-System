@@ -15,7 +15,6 @@ The project directory contains the following files:
 - **data.csv**: This file contains general data used by the program.
 - **file.cpp**: The main C++ source file containing the program logic.
 - **login.h**: Header file for login functionalities.
-- **login.h.gch**: Precompiled header for `login.h`.
 - **orders.csv**: This file contains order-related data.
 
 ## Getting Started
